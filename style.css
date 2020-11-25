@@ -1,0 +1,91 @@
+.navbar-nav a {
+    color: white !important;
+}
+
+.navbar-nav a:active {
+    color: #E64630;
+}
+
+.navbar-nav a:hover {
+    background:#E64630;
+    color: white !important;
+    border-radius: 20px;
+    width: 120px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+.fixed-top {
+    background-color: #0D0D0D;
+    color: #eeeeee;
+    margin-top: 0px;
+}
+
+.social {
+    margin-left: 3em;
+}
+
+.social a:hover {
+    background: #E64630!important;
+    color: white;
+}
+
+.bg{
+    background-color: #0D0D0D;
+    color: white;
+}
+
+.navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color:white;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
+.content h3{
+    color: #E64630;
+}
+.content h1{
+    color: white;
+    font-weight: 500;
+}
+.flex-box{
+
+    height: 100%;
+
+
+    display: flex;
+  
+  
+    align-items: center;
+  
+  
+    justify-content: center;
+}
+.flex-3,.flex-1,.flex-2,.flex-4{
+    flex: 1;
+    
+  
+}
+.btn{
+    background-color: #E64630;
+}
+button a{
+    
+    color: white;
+}
+.flex-4 p{
+    width: 15em;
+    text-align: center;
+    
+}
+body{
+    background-color: #0D0D0D;
+    color: white;
+}
+.padding-top{
+    padding-top: 3em;
+}
